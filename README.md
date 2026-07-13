@@ -79,8 +79,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanket1035&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket1035&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanket1035&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanket1035&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 <img src="https://streak-stats.demolab.com/?user=sanket1035&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
