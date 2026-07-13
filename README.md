@@ -88,6 +88,24 @@
 
 <br>
 
+## 🏆 ELUSOC 2026 Badges
+
+<div align="center">
+
+### My ELUSOC 2026 Badges!
+<a href="https://www.edulinkup.dev/elusoc/profile/sanket1035">
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/spawnling.png" width="60" alt="Spawnling" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/stone_coder.png" width="60" alt="Stone Coder" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/iron_developer.png" width="60" alt="Iron Developer" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/gold_engineer.png" width="60" alt="Gold Engineer" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/diamond_architect.png" width="60" alt="Diamond Architect" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/end_conqueror.png" width="60" alt="End Conqueror" />
+</a>
+
+</div>
+
+<br>
+
 ## 🌟 Featured Projects
 
 | Project | Description |
