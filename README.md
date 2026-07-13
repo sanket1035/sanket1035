@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20there,%20I'm%20Sanket%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20|%20KKWIEER'27&descAlignY=55&descSize=18" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20there%2C%20I%27m%20Sanket&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20%7C%20KKWIEER%2727&descAlignY=55&descSize=18" alt="header banner" />
 
 ### 🚀 AI/DS Engineer
 
@@ -101,6 +101,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" alt="footer wave" />
 
 </div>
