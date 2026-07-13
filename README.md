@@ -7,6 +7,7 @@
 *Building scalable, real-world AI products — not just projects*
 
 <img src="https://komarev.com/ghpvc/?username=sanket1035&label=Profile%20views&color=667eea&style=for-the-badge" alt="profile views" />&nbsp;
+<a href="https://sanketchaudhari.in"><img src="https://img.shields.io/badge/Portfolio-sanketchaudhari.in-667eea?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
 <a href="https://linkedin.com/in/sanketchaudhari1035"><img src="https://img.shields.io/badge/LinkedIn-sanketchaudhari1035-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://x.com/sanket_103"><img src="https://img.shields.io/badge/X-sanket__103-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
 <a href="mailto:sanketchaudhari1035@gmail.com"><img src="https://img.shields.io/badge/Email-sanketchaudhari1035-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -92,15 +93,20 @@
 
 <div align="center">
 
-### My ELUSOC 2026 Badges!
 <a href="https://www.edulinkup.dev/elusoc/profile/sanket1035">
-  <img src="https://www.edulinkup.dev/elusoc/images/ticket/spawnling.png" width="60" alt="Spawnling" />
-  <img src="https://www.edulinkup.dev/elusoc/images/ticket/stone_coder.png" width="60" alt="Stone Coder" />
-  <img src="https://www.edulinkup.dev/elusoc/images/ticket/iron_developer.png" width="60" alt="Iron Developer" />
-  <img src="https://www.edulinkup.dev/elusoc/images/ticket/gold_engineer.png" width="60" alt="Gold Engineer" />
-  <img src="https://www.edulinkup.dev/elusoc/images/ticket/diamond_architect.png" width="60" alt="Diamond Architect" />
-  <img src="https://www.edulinkup.dev/elusoc/images/ticket/end_conqueror.png" width="60" alt="End Conqueror" />
+<table>
+<tr>
+<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/spawnling.png" width="110" alt="Spawnling" /><br><sub><b>Spawnling</b></sub></td>
+<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/stone_coder.png" width="110" alt="Stone Coder" /><br><sub><b>Stone Coder</b></sub></td>
+<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/iron_developer.png" width="110" alt="Iron Developer" /><br><sub><b>Iron Developer</b></sub></td>
+<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/gold_engineer.png" width="110" alt="Gold Engineer" /><br><sub><b>Gold Engineer</b></sub></td>
+<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/diamond_architect.png" width="110" alt="Diamond Architect" /><br><sub><b>Diamond Architect</b></sub></td>
+<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/end_conqueror.png" width="110" alt="End Conqueror" /><br><sub><b>End Conqueror</b></sub></td>
+</tr>
+</table>
 </a>
+
+**1500 pts** · Contributor tier · [View full ticket →](https://www.edulinkup.dev/elusoc/profile/sanket1035)
 
 </div>
 
