@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20there%2C%20I%27m%20Sanket&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20and%20Data%20Science%20%7C%20KKWIEER%2727&descAlignY=55&descSize=18" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20there%2C%20I%27m%20Sanket&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20and%20Data%20Science%20%7C%20KKWIEER%2727&descAlignY=55&descSize=17&fontAlign=50&fontFamily=Poppins" alt="header banner" />
 
-### 🚀 AI/DS Engineer
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=AI%2FDS%20Engineer&fontSize=28&fontColor=667eea&fontFamily=Barlow&fontAlign=50&fontAlignY=60" alt="AI/DS Engineer" />
 
 *Building scalable, real-world AI products — not just projects*
 
@@ -16,18 +16,20 @@
 
 <br>
 
-## 💫 About Me
+## About Me
 
-- 🎓 Final-year **B.Tech AI & Data Science** @ KKWIEER, Nashik — CGPA 8.52
-- 🏛️ Core Committee Member — **CSI KKWIEER Students' Chapter** 2025–26
-- 🤖 Focused on **AI/ML, Data Science & Cybersecurity**
-- 🌐 Built **StudyBuddy** — an ed-tech platform used by 1,500+ students
-- ⚽ National Gold Medalist — Football Championship 2023
-- 📍 Nashik, India
+- Final-year **B.Tech AI & Data Science** @ KKWIEER, Nashik — CGPA 8.52
+- Core Committee Member — **CSI KKWIEER Students' Chapter** 2025–26
+- Focused on **AI/ML, Data Science & Cybersecurity**
+- Built **StudyBuddy** — an ed-tech platform used by 1,500+ students
+- National Gold Medalist — Football Championship 2023
+- Based in Nashik, India
+
+**Languages:** English (Professional) · German (A2)
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -37,28 +39,28 @@
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **AI / ML / Data**
 <br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Web & Backend**
 <br>
 ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Database & Cloud**
 <br>
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -69,14 +71,14 @@
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -89,7 +91,7 @@
 
 <br>
 
-## 🏆 ELUSOC 2026 Badges
+## ELUSOC 2026 Badges
 
 <div align="center">
 
@@ -112,14 +114,16 @@
 
 <br>
 
-## 🌟 Featured Projects
+## Featured Projects
 
-| Project | Description |
-|---|---|
-| **[Algonix](https://github.com/sanket1035)** | Gamified inter-college coding platform — React, Node.js, MongoDB |
-| **[Carbonomics AI](https://github.com/sanket1035)** | AI-driven carbon intelligence system — Final Year Project |
-| **[PlaceTrack AI](https://github.com/sanket1035)** | AI-powered resume analysis platform, deployed on Vercel |
-| **[StudyBuddy](https://github.com/sanket1035)** | Ed-tech platform serving 1,500+ students |
+| Project | Description | Stack |
+|---|---|---|
+| **[Algonix](https://github.com/sanket1035/algonix)** | Gamified inter-college coding platform — leaderboards, badges, Judge0 code execution, skill tests, admin panel | React · Node.js · MongoDB · Docker |
+| **[YuktiNexus (SheRise AI)](https://github.com/sanket1035/YuktiNexus-v2v)** | AI-powered career intelligence platform empowering women in STEM | JavaScript |
+| **[PlaceTrack AI](https://github.com/sanket1035/placetrack-ai)** | Enterprise-grade placement platform — AI resume analysis, readiness scoring, aptitude tests, interview coaching | Next.js · TypeScript · PostgreSQL · Express |
+| **[Carbonomics AI](https://github.com/sanket1035/carbonomics-ai)** | AI-driven carbon intelligence — emission prediction, scenario simulation, sustainability optimization (Final Year Project) | Python · Random Forest · Scikit-learn |
+| **[IP Geolocation Finder](https://github.com/sanket1035/ip-geolocation-finder)** | Lookup geolocation, ISP & network details of any IP with interactive map visualization | Flask · Leaflet.js |
+| **[GSTbillingApp](https://github.com/sanket1035/GSTbillingApp)** | Professional Android GST billing app — MVVM, PDF invoice generation | Kotlin · Jetpack Compose · Firebase |
 
 <br>
 
