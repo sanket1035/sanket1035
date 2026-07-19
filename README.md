@@ -12,6 +12,8 @@
 <a href="https://x.com/sanket_103"><img src="https://img.shields.io/badge/X-sanket__103-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
 <a href="mailto:sanketchaudhari1035@gmail.com"><img src="https://img.shields.io/badge/Email-sanketchaudhari1035-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74820&center=true&vCenter=true&width=435&lines=%E0%A4%9A%E0%A4%B0%E0%A5%88%E0%A4%B5%E0%A5%87%E0%A4%A4%E0%A4%BF+%E2%80%A2+Seek+Mastery.)](https://git.io/typing-svg)
+
 </div>
 
 <br>
