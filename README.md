@@ -91,24 +91,36 @@
 
 <br>
 
-## ELUSOC 2026 Badges
+### ELUSOC 2026 Badges
 
 <div align="center">
 
 <a href="https://www.edulinkup.dev/elusoc/profile/sanket1035">
 <table>
 <tr>
-<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/spawnling.png" width="110" alt="Spawnling" /><br><sub><b>Spawnling</b></sub></td>
-<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/stone_coder.png" width="110" alt="Stone Coder" /><br><sub><b>Stone Coder</b></sub></td>
-<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/iron_developer.png" width="110" alt="Iron Developer" /><br><sub><b>Iron Developer</b></sub></td>
-<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/gold_engineer.png" width="110" alt="Gold Engineer" /><br><sub><b>Gold Engineer</b></sub></td>
-<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/diamond_architect.png" width="110" alt="Diamond Architect" /><br><sub><b>Diamond Architect</b></sub></td>
-<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/end_conqueror.png" width="110" alt="End Conqueror" /><br><sub><b>End Conqueror</b></sub></td>
+<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/spawnling.png" width="90" alt="Spawnling" /><br><sub><b>Spawnling</b></sub></td>
+<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/stone_coder.png" width="90" alt="Stone Coder" /><br><sub><b>Stone Coder</b></sub></td>
+<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/iron_developer.png" width="90" alt="Iron Developer" /><br><sub><b>Iron Developer</b></sub></td>
+<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/gold_engineer.png" width="90" alt="Gold Engineer" /><br><sub><b>Gold Engineer</b></sub></td>
+<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/diamond_architect.png" width="90" alt="Diamond Architect" /><br><sub><b>Diamond Architect</b></sub></td>
+<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/end_conqueror.png" width="90" alt="End Conqueror" /><br><sub><b>End Conqueror</b></sub></td>
+<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/netherite_champion.png" width="90" alt="Netherite Champion" /><br><sub><b>Netherite Champion</b></sub></td>
 </tr>
 </table>
 </a>
 
-**1500 pts** · Contributor tier · [View full ticket →](https://www.edulinkup.dev/elusoc/profile/sanket1035)
+![Contributor Tier](https://img.shields.io/badge/Contributor%20Tier-2ea44f?style=flat-square)
+
+<a href="https://www.edulinkup.dev/elusoc/profile/purvachopade1016">
+<table>
+<tr>
+<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/overseer.png" width="90" alt="Overseer" /><br><sub><b>Overseer</b></sub></td>
+<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/warden.png" width="90" alt="Warden" /><br><sub><b>Warden</b></sub></td>
+</tr>
+</table>
+</a>
+
+![Admin Tier](https://img.shields.io/badge/Admin%20Tier-1f6feb?style=flat-square)
 
 </div>
 
