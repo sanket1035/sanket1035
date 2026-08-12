@@ -110,6 +110,7 @@ Building with curiosity, consistency, and purpose.
 <td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/diamond_architect.png" width="90" alt="Diamond Architect" /><br><sub><b>Diamond Architect</b></sub></td>
 <td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/end_conqueror.png" width="90" alt="End Conqueror" /><br><sub><b>End Conqueror</b></sub></td>
 <td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/netherite_champion.png" width="90" alt="Netherite Champion" /><br><sub><b>Netherite Champion</b></sub></td>
+<td align="center"><img src="https://www.edulinkup.dev/elusoc/images/ticket/repo_legend.png" width="90" alt="Repo Legend" /><br><sub><b>Repo Legend</b></sub></td>
 </tr>
 </table>
 </a>
