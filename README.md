@@ -136,12 +136,14 @@ Building with curiosity, consistency, and purpose.
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Algonix](https://github.com/sanket1035/algonix)** | Gamified inter-college coding platform — leaderboards, badges, Judge0 code execution, skill tests, admin panel | React · Node.js · MongoDB · Docker |
+| **[Carbonomics AI](https://github.com/sanket1035/carbonomics-ai)** | AI-driven carbon intelligence — emission prediction, scenario simulation, sustainability optimization (Final Year Project) | Python · Random Forest · Scikit-learn |
+| **[Prodexa](https://github.com/sanket1035/Prodexa)** | AI-powered product readiness platform — analyzes website, GitHub repo, pitch deck via specialized AI reviewers to generate launch-readiness reports | Next.js 15 · TypeScript · Firebase · Gemini API |
+| **[Pramāṇa AI](https://github.com/sanket1035/pramana-ai)** | Enterprise-grade academic verification platform — 4-agent AI pipeline eliminating LLM hallucinations, validating claims against live academic databases | React 19 · Vite · Express.js · Gemini API |
 | **[YuktiNexus (SheRise AI)](https://github.com/sanket1035/YuktiNexus-v2v)** | AI-powered career intelligence platform empowering women in STEM | JavaScript |
 | **[PlaceTrack AI](https://github.com/sanket1035/placetrack-ai)** | Enterprise-grade placement platform — AI resume analysis, readiness scoring, aptitude tests, interview coaching | Next.js · TypeScript · PostgreSQL · Express |
-| **[Carbonomics AI](https://github.com/sanket1035/carbonomics-ai)** | AI-driven carbon intelligence — emission prediction, scenario simulation, sustainability optimization (Final Year Project) | Python · Random Forest · Scikit-learn |
-| **[IP Geolocation Finder](https://github.com/sanket1035/ip-geolocation-finder)** | Lookup geolocation, ISP & network details of any IP with interactive map visualization | Flask · Leaflet.js |
+| **[Algonix](https://github.com/sanket1035/algonix)** | Gamified inter-college coding platform — leaderboards, badges, Judge0 code execution, skill tests, admin panel | React · Node.js · MongoDB · Docker |
 | **[GSTbillingApp](https://github.com/sanket1035/GSTbillingApp)** | Professional Android GST billing app — MVVM, PDF invoice generation | Kotlin · Jetpack Compose · Firebase |
+| **[IP Geolocation Finder](https://github.com/sanket1035/ip-geolocation-finder)** | Lookup geolocation, ISP & network details of any IP with interactive map visualization | Flask · Leaflet.js |
 
 <br>
 
